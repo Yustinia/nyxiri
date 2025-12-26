@@ -32,7 +32,9 @@ My personalized _Niri_ dotfiles with a minimal and monochromatic color scheme.
 
 3. `git clone` the repository to your local machine.
 
-4. Copy the following directories inside the repo's `.config` folder to your local `.config`.
+4. Copy the files and directories inside the repo's `.config` folder to your local `.config`.
+
+5. Copy `.icons` and `.themes` to your home directory. Typically denoted by (~).
 
 ## Directory Structure
 
@@ -52,3 +54,9 @@ nyxiri
 │   └── Win12X-Fantasy-Compact
 └── README.md
 ```
+
+## Preview
+
+![nyxiri-1](preview/nyxiri-1.png)
+![nyxiri-2](preview/nyxiri-2.png)
+![nyxiri-3](preview/nyxiri-3.png)
